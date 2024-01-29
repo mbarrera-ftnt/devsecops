@@ -1,7 +1,7 @@
 minvu.cl
 *.opdtome.*
 *.ecologiaaustral.*
-*.google.*
+*.google
 *.minvu*
 *.gmail*
 *.tome.*
