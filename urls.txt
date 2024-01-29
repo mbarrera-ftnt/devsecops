@@ -1,3 +1,4 @@
+minvu.cl
 *.opdtome.*
 *.ecologiaaustral.*
 *.google.*
